@@ -11,17 +11,7 @@ Por medio de encuestas e investigación preliminar.
 * Encuestas:
   
 Notamos como fenomeno que no todos los estudiantes conocian los recursos que posee la UDP, en temas de fabricación digital, como por ejemplo instalaciones fisicas de impresión 3D, Corte láser y router CNC.
-Para entender de objetivos, la bitacora se ve asi:
-
-
-![IMG_1733](https://github.com/ssofiasandoval/TechDesing/assets/128400293/a0b0821a-d541-48b7-8d48-b5df67498249)
-![IMG_1734](https://github.com/ssofiasandoval/TechDesing/assets/128400293/63250591-6796-48ce-9706-4a789070e1c6)
-![IMG_1735](https://github.com/ssofiasandoval/TechDesing/assets/128400293/baf9c169-5802-49e9-b46a-173acea2a478)
-![IMG_1736](https://github.com/ssofiasandoval/TechDesing/assets/128400293/9dc03dc7-6c48-4fec-b77e-956d83e289bf)
-![IMG_1737](https://github.com/ssofiasandoval/TechDesing/assets/128400293/488c9ad9-61b3-4257-9f09-b765aacc304f)
-![IMG_1738](https://github.com/ssofiasandoval/TechDesing/assets/128400293/2b3a9453-f1cc-4773-a607-526eb1057c59)
-![IMG_1739](https://github.com/ssofiasandoval/TechDesing/assets/128400293/82299c69-7308-42d9-a66b-9a506994bb18)
-
+El proceso de la bitacora se puede ver: 
 Por ello realizamos encuestas a los estudiantes de la FAAD, de manera presencial y se utilizo google form como recopilador de datos.
  <img width="1098" alt="Captura de pantalla 2024-04-19 a la(s) 11 04 13 p  m" src="https://github.com/ssofiasandoval/TechDesing/assets/128400293/65e9cc3b-b776-4a78-8ef3-37fe3853f6b8">
 
