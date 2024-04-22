@@ -16,7 +16,7 @@ Notamos como fenómeno que no todos los estudiantes conocían los recursos que p
 
  <img width="1098" alt="Captura de pantalla 2024-04-19 a la(s) 11 04 13 p  m" src="https://github.com/ssofiasandoval/TechDesing/assets/128400293/65e9cc3b-b776-4a78-8ef3-37fe3853f6b8">
 
-Ya que trabajar los datos como se muestra en la imagen es mucho más cómodo al momento de programar y crear la visualización, adeás teníamos la facilidad de exportar un csv, ya que opción de añadirlo.
+Ya que al trabajar los datos como se muestra en la imagen, se hace más cómodo al momento de programar y crear la visualización, además da la opción de exportar en CSV.
 <img width="1156" alt="Captura de pantalla 2024-04-19 a la(s) 10 34 56 p  m" src="https://github.com/ssofiasandoval/TechDesing/assets/128400293/bfa962f0-a41a-416b-a2d8-dd994e8a829b">
 Luego se estudio el primer código en p5, entendiendo como dibujar una red neuronal y cómo añadir las variables.
 https://editor.p5js.org/ssofiasandoval/sketches/yWh4guoWo
